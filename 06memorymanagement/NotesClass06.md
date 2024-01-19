@@ -3,6 +3,8 @@
 ## Introduction
 In this class, we explore the memory management mechanisms in GoLang, including the initialization of memory using `new()` and `make()`. Additionally, we delve into the Garbage Collector (GC) and the related `GOGC` variables, along with the `NumCPU` function.
 
+https://pkg.go.dev/runtime
+
 ## Memory Management Overview
 
 ### 1. Memory Initialization with `new()` and `make()`
